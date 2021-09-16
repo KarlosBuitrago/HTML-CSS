@@ -1,0 +1,11 @@
+/*si no hay punto es general el estilo */
+body{
+    background:#91bf9e;
+}
+/*.nombre class le da estilo a una clase en especifica que tengan todos esos atributos*/
+.nombreClase{
+    background-color: #91bf9e;
+}
+.titulo-principal{
+   background-color: darkblue; 
+}
